@@ -1,0 +1,3 @@
+My first file using with statement
+My second line in second file
+contains three lines
